@@ -1,5 +1,5 @@
 //Task 1
-//Hello Function
+//I caused a merge conflict
 function hello() {
     return "Hello Week 2"
 }
