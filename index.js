@@ -1,4 +1,4 @@
-//Conflict 1
+Change to conflict
 //Parner changes
 function hello() {
     return "Hello Week 2"
