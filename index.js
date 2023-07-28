@@ -1,5 +1,5 @@
 //Task 1
-//I caused a merge conflict
+//Parner changes
 function hello() {
     return "Hello Week 2"
 }
