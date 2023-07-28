@@ -1,4 +1,4 @@
-//Task 1
+//Conflict 1
 //Parner changes
 function hello() {
     return "Hello Week 2"
